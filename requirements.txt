@@ -1,0 +1,9 @@
+customtkinter
+mutagen
+Pillow
+piexif
+pypdf
+python-docx
+openpyxl
+pyinstaller
+zstandard
