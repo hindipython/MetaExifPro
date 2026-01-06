@@ -66,7 +66,7 @@ For a lightweight (~25MB) portable executable:
 
 ```bash
 # Using batch script (Windows)
-compile_lightweight.bat
+compile.bat
 
 # Or manually
 python build.py
@@ -110,3 +110,4 @@ bc1qnnh20ehd88a9jxzqhe4ahq6z5xfkhk4p5pgnhn
 ## 📝 License
 
 MIT License — See [LICENSE](LICENSE)
+
